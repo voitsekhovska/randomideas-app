@@ -1,0 +1,14 @@
+{
+  "name": "randomideas",
+  "version": "1.0.0",
+  "description": "App for sharing ideas",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Yevheniia Voitsekhovska",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
